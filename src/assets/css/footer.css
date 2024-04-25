@@ -1,0 +1,19 @@
+*{
+    text-decoration: none !important;
+    list-style: none;
+}
+
+a{
+    color: gray;
+}
+
+p{
+    font-size: 12px;
+}
+
+.footerImg>img{
+    width: 100px;
+    height: 35px;
+
+
+}
